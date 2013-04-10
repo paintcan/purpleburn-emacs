@@ -1,5 +1,9 @@
 # About
 
+Purpleburn is forked from Zenburn. The rest of the README is left entirely intact, due to personal laziness. Instead of providing a low-contrast theme, it provides a relatively high-contrast theme with soothing shades of dark and light purple used for background and foreground rendering respectively.
+
+8<--- the original docs ----------------------------------------------------
+
 Zenburn for Emacs is a direct port of the popular
 [Zenburn](http://slinky.imukuppi.org/zenburnpage/) theme for vim,
 developed by Jani Nurminen. It's my personal belief (and
